@@ -81,8 +81,8 @@ Timing: Weekdays are far more important (≈77% of sales). Peak hours cluster ar
 
 Average per-day: Average daily sales line shows ~$324 — can be used as a baseline for forecasting and variance analysis.
 
-### 6.	Screenshots 
-Example: ![Dashboard Preview](https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png)
+### 6.	Dashboard Screenshots 
+ ![Dashboard Preview](https://github.com/Raghvendra-tech/coffee-shop-analysis-power-bi/blob/main/Screenshot%202025-09-07%20224916.png)
 ## linkedin profile 
 
 [![linkedin](https://www.linkedin.com/in/raghvendra-choudhary-9bb39a281)](https://www.linkedin.com/)
